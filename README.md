@@ -35,7 +35,4 @@
 - SCSS modules
 
 
-### Installing 
-* Clone the Repo and run npm install and npm run to run on localhost
-
 [Click here to see live Version --> ](https://newmovies.netlify.app)
